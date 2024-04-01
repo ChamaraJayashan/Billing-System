@@ -21,12 +21,12 @@ Billify is a simple yet efficient Python console billing system that helps you m
 
 2. **Navigate to the Directory**:
     ```
-    cd billify
+    cd Billing-System
     ```
 
 3. **Run the Application**:
     ```
-    python billing_system.py
+    python Billing-System.py
     ```
 
 ## Usage
